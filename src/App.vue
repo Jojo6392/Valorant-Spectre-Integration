@@ -184,8 +184,8 @@ export default {
     &__profile {
         display: flex;
         align-items: center;
-        width: 30%;
-        justify-content: end;
+        width: 20%;
+        justify-content: center;
         gap: 10px;
         padding-right: 50px;
     }
