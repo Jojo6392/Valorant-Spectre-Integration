@@ -1,24 +1,9 @@
-# valorant-integration
+# Figma integration of Spectre model in Valorant
 
-## Project setup
-```
-npm install
-```
+- Link to the dribble : https://dribbble.com/shots/11083064-Valorant-Weapon-Spectre-page-concept-design designed by **Dmitry Kiiashko**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Link to the work : https://jojo6392.github.io/Valorant-Spectre-Integration/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+*Resolution : 2716 x 1660 - no responsive*
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img width="679" alt="Capture d’écran 2022-07-04 144149" src="https://user-images.githubusercontent.com/87821711/177158707-26756fe6-25d4-4782-9892-2069a69810af.png">
